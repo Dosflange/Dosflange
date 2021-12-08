@@ -1,1 +1,3 @@
 Yet another profile...
+
+![Blog](https://github.com/Dosflange/Dosflange/blob/main/blink-blink.png)
